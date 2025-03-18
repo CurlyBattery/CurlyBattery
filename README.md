@@ -1,20 +1,32 @@
 <div id="header" align="center">
   <img src="https://github.com/CurlyBattery/CurlyBattery/blob/main/header.png?raw=true" alt="альтернативный текст">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF777&width=435&lines=I've+been+doing+backend+programming+;on+Nest+JS+for+10+months+now" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF777&width=435&lines=I've+been+doing+backend+programming+;on+Nest+JS+for+13+months+now" alt="Typing SVG" /></a>
 </div>
 
-## About me ##
+---
+
+### About me 
 - __Now I'm studing Nest Js microservices, web sockets and GraphQL__ 🧩
 - __I always enjoy learning new things, reaching new heights and participating in various hackathons__ 📺
 - __Interesting fact: I like to play tennis__ 🏓
 
-## Streak Stats ##
+---
+
+### Streak Stats 
 [![GitHub Streak](https://streak-stats.demolab.com?user=CurlyBattery&theme=merko&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
-## Individual Stats ##
+---
+
+### Individual Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CurlyBattery&hide=contribs,prs&theme=dracula)
 
-## Useful Links ##
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+---
+
+### Useful Links 
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1qb3M0MHpyZmczeDJoZzR4Z2lvcXBydDhpejNpb3Zoc2NoM2lnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif" height="300">
   
