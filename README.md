@@ -8,8 +8,6 @@
 - __I always enjoy learning new things, reaching new heights and participating in various hackathons__ 📺
 - __Interesting fact: I like to play tennis__ 🏓
 
-![Snake animation](https://github.com/CurlyBattery/github-readme/blob/output/github-contribution-snake.svg)
-
 ## Streak Stats ##
 [![GitHub Streak](https://streak-stats.demolab.com?user=CurlyBattery&theme=merko&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 
@@ -31,4 +29,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=CurlyBattery&style=flat-square&color=blue" alt=""/>
 </div>
