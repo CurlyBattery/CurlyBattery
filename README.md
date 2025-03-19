@@ -15,6 +15,15 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
+
+```txt
+TypeScript          13 hrs 36 mins  ████████▒░░░░░░░░░░░░░░░░   32.80 %
+Other               10 hrs 40 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.73 %
+YAML                5 hrs 55 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Prisma              3 hrs 41 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
+Docker              1 hr 45 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
