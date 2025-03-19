@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/CurlyBattery/CurlyBattery/blob/main/header.png?raw=true" alt="альтернативный текст">
+  <img src="https://github.com/CurlyBattery/CurlyBattery/blob/master/header.png?raw=true" alt="альтернативный текст">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF777&width=435&lines=I've+been+doing+backend+programming+;on+Nest+JS+for+13+months+now" alt="Typing SVG" /></a>
 </div>
 
