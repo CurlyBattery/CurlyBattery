@@ -12,9 +12,9 @@
 
 ---
 
-<!--START_SECTION:waka-->
 ### :monorail: Streak Stats 
 
+<!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 ---
