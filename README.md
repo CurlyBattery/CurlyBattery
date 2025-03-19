@@ -12,8 +12,10 @@
 
 ---
 
+<!--START_SECTION:waka-->
 ### :monorail: Streak Stats 
-[![GitHub Streak](https://streak-stats.demolab.com?user=CurlyBattery&theme=merko&hide_border=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&short_numbers=%D0%9B%D0%9E%D0%96%D0%AC&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!--END_SECTION:waka-->
 
 ---
 
