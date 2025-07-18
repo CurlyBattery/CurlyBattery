@@ -23,8 +23,6 @@
 
 > 📦 35.0 kB Used in GitHub's Storage 
  > 
-> 🏆 197 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 32 Public Repositories 
@@ -90,7 +88,7 @@ CSS                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/CurlyBattery/CurlyBattery/master/assets/bar_graph.png)
 
 
- Last Updated on 17/07/2025 18:55:11 UTC
+ Last Updated on 18/07/2025 18:53:39 UTC
 <!--END_SECTION:waka-->
 
 ---
