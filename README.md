@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/CurlyBattery/CurlyBattery/blob/master/header.png?raw=true" alt="альтернативный текст">
+  <img src="https://github.com/Vodnyy143/Vodnyy143/blob/master/header.png?raw=true" alt="альтернативный текст">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2BF777&width=435&lines=I've+been+doing+backend+programming+;on+Nest+JS+for+17+months+now" alt="Typing SVG" /></a>
 </div>
 
@@ -103,7 +103,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ---
 
 ### :slot_machine: Individual Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CurlyBattery&hide=contribs,prs&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vodnyy143&hide=contribs,prs&theme=dracula)
 
 ---
 
