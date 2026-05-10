@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C663%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C665%20hrs%2025%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -58,28 +58,28 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    24 hrs 4 mins       ████████████████░░░░░░░░░   64.70 % 
-TypeScript               4 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-C#                       2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-XAML                     1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Other                    20 hrs 33 mins      ████████████████░░░░░░░░░   62.10 % 
+TypeScript               5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+C#                       2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
+Markdown                 1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+XAML                     1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 
 🔥 Editors: 
-Firefox                  25 hrs 11 mins      █████████████████░░░░░░░░   67.70 % 
-WebStorm                 7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
-Rider                    4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-GoLand                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Firefox                  21 hrs 44 mins      ████████████████░░░░░░░░░   65.64 % 
+WebStorm                 7 hrs 35 mins       ██████░░░░░░░░░░░░░░░░░░░   22.90 % 
+Rider                    3 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+GoLand                   8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🐱‍💻 Projects: 
-void-today               16 hrs 31 mins      ███████████░░░░░░░░░░░░░░   44.42 % 
-travel-repo              4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-courses                  4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
-README.md                3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-lab                      2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
+void-today               18 hrs 25 mins      ██████████████░░░░░░░░░░░   55.64 % 
+README.md                3 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+courses                  2 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+lab                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+you-dont-know-js-ru      2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
 
 💻 Operating System: 
-Windows                  37 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,7 +99,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 19:41:58 UTC
+ Last Updated on 10/05/2026 19:42:17 UTC
 <!--END_SECTION:waka-->
 
 ---
