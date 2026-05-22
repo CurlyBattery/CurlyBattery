@@ -15,8 +15,6 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C726%20hrs%203%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -58,26 +56,26 @@ Sunday                   52 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    28 hrs 11 mins      ████████████████████░░░░░   78.74 % 
-TypeScript               2 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-C#                       2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-XAML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+Other                    25 hrs 7 mins       ██████████████████░░░░░░░   72.64 % 
+C#                       4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+TypeScript               2 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
+XAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+YAML                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editors: 
-Firefox                  29 hrs 9 mins       ████████████████████░░░░░   81.47 % 
-WebStorm                 3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
-Rider                    3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Firefox                  25 hrs 57 mins      ███████████████████░░░░░░   75.08 % 
+Rider                    5 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+WebStorm                 3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🐱‍💻 Projects: 
-void-today               19 hrs 38 mins      ██████████████░░░░░░░░░░░   54.85 % 
-products                 8 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-real-time-chat           3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-nestjs-monorepo          2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
-lib-repo                 45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+void-today               14 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   41.62 % 
+products                 11 hrs 26 mins      ████████░░░░░░░░░░░░░░░░░   33.10 % 
+real-time-chat           3 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+nestjs-monorepo          2 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
+progon_1                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 💻 Operating System: 
-Windows                  35 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  34 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +95,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 21/05/2026 20:23:51 UTC
+ Last Updated on 22/05/2026 20:22:04 UTC
 <!--END_SECTION:waka-->
 
 ---
