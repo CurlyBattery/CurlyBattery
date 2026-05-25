@@ -15,40 +15,40 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C744%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C749%20hrs%204%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 199.8 kB Used in GitHub's Storage 
+> 📦 200.7 kB Used in GitHub's Storage 
  > 
-> 🏆 241 Contributions in the Year 2026
+> 🏆 248 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 85 Public Repositories 
+> 📜 86 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                446 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌆 Daytime                794 commits         █████████████░░░░░░░░░░░░   53.29 % 
-🌃 Evening                212 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-🌙 Night                  38 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+🌞 Morning                437 commits         ███████░░░░░░░░░░░░░░░░░░   29.71 % 
+🌆 Daytime                785 commits         █████████████░░░░░░░░░░░░   53.37 % 
+🌃 Evening                209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   171 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Tuesday                  276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
-Wednesday                193 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Thursday                 209 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.03 % 
-Friday                   390 commits         ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Saturday                 196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Sunday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Monday                   169 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+Tuesday                  276 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Wednesday                189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Thursday                 207 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Friday                   386 commits         ███████░░░░░░░░░░░░░░░░░░   26.24 % 
+Saturday                 192 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
+Sunday                   52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 
@@ -58,36 +58,38 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    26 hrs 21 mins      ████████████████░░░░░░░░░   64.03 % 
-C#                       8 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-XAML                     3 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.50 % 
-TypeScript               1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Other                    27 hrs 6 mins       ███████████████░░░░░░░░░░   58.75 % 
+C#                       9 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+XAML                     4 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+TypeScript               1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+YAML                     1 hr 31 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 
 🔥 Editors: 
-Firefox                  27 hrs 15 mins      █████████████████░░░░░░░░   66.19 % 
-Rider                    11 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-WebStorm                 2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+Firefox                  29 hrs 23 mins      ████████████████░░░░░░░░░   63.69 % 
+Rider                    12 hrs 56 mins      ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+WebStorm                 3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Claude Code              19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+DataGrip                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🐱‍💻 Projects: 
-products                 11 hrs 44 mins      ███████░░░░░░░░░░░░░░░░░░   28.53 % 
-void-today               7 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-progon_1                 6 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Products-repo            5 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-real-time-chat           3 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.45 % 
+products                 11 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Products-repo            8 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
+progon_1                 6 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+back-global-access       5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
+void-today               4 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
 
 💻 Operating System: 
-Windows                  41 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  46 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               63 repos            ████████████████░░░░░░░░░   62.38 % 
-JavaScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
-C#                       5 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+TypeScript               63 repos            ███████████████░░░░░░░░░░   61.76 % 
+JavaScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   24.51 % 
+C#                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 ```
 
 
@@ -97,7 +99,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 24/05/2026 19:48:24 UTC
+ Last Updated on 25/05/2026 20:11:09 UTC
 <!--END_SECTION:waka-->
 
 ---
