@@ -103,7 +103,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ---
 
 ### :slot_machine: Individual Stats 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vodnyy143&show_icons=true&theme=dracula&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vodnyy143&theme=dracula)](https://git.io/streak-stats)
 
 ---
 
