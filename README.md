@@ -15,40 +15,40 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C797%20hrs%2042%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C805%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 217.9 kB Used in GitHub's Storage 
+> 📦 218.7 kB Used in GitHub's Storage 
  > 
-> 🏆 265 Contributions in the Year 2026
+> 🏆 274 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 88 Public Repositories 
+> 📜 89 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                448 commits         ███████░░░░░░░░░░░░░░░░░░   29.65 % 
-🌆 Daytime                810 commits         █████████████░░░░░░░░░░░░   53.61 % 
-🌃 Evening                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+🌞 Morning                452 commits         ███████░░░░░░░░░░░░░░░░░░   29.76 % 
+🌆 Daytime                814 commits         █████████████░░░░░░░░░░░░   53.59 % 
+🌃 Evening                213 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
+🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
-Tuesday                  284 commits         █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
-Wednesday                195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
-Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
-Friday                   390 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
-Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Tuesday                  284 commits         █████░░░░░░░░░░░░░░░░░░░░   18.70 % 
+Wednesday                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Thursday                 209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+Friday                   390 commits         ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 
 
@@ -58,36 +58,36 @@ Sunday                   58 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    22 hrs 54 mins      ███████████████░░░░░░░░░░   59.06 % 
-C#                       9 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.04 % 
-XAML                     5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-GitIgnore file           2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    27 hrs 29 mins      ████████████████░░░░░░░░░   65.96 % 
+C#                       8 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+XAML                     5 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
+Prisma                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Firefox                  24 hrs 22 mins      ████████████████░░░░░░░░░   62.86 % 
-Rider                    14 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   37.12 % 
+Firefox                  28 hrs 5 mins       █████████████████░░░░░░░░   67.38 % 
+Rider                    13 hrs 35 mins      ████████░░░░░░░░░░░░░░░░░   32.60 % 
 WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-BuildApp                 9 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
-build-repo               8 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.24 % 
-CalculateApp             7 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.54 % 
-ShoesApp                 7 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-void-today               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+ShoesApp                 15 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   36.93 % 
+build-repo               8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
+CalculateApp             7 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+BuildApp                 5 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+void-today               2 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 
 💻 Operating System: 
-Windows                  38 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  41 hrs 41 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               63 repos            ███████████████░░░░░░░░░░   60.58 % 
-JavaScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
-C#                       8 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+TypeScript               63 repos            ███████████████░░░░░░░░░░   60.00 % 
+JavaScript               25 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+C#                       9 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
 ```
 
 
@@ -97,7 +97,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 02/06/2026 21:35:06 UTC
+ Last Updated on 03/06/2026 21:37:36 UTC
 <!--END_SECTION:waka-->
 
 ---
