@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C814%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C815%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -58,26 +58,26 @@ Sunday                   58 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    24 hrs 48 mins      ██████████████░░░░░░░░░░░   56.53 % 
-C#                       11 hrs 42 mins      ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-XAML                     7 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
-GitIgnore file           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    19 hrs 9 mins       █████████████░░░░░░░░░░░░   50.36 % 
+C#                       11 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+XAML                     7 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+YAML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+TypeScript               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-Firefox                  26 hrs 9 mins       ███████████████░░░░░░░░░░   59.59 % 
-Rider                    17 hrs 43 mins      ██████████░░░░░░░░░░░░░░░   40.38 % 
-WebStorm                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Firefox                  20 hrs 20 mins      █████████████░░░░░░░░░░░░   53.48 % 
+Rider                    17 hrs 28 mins      ███████████░░░░░░░░░░░░░░   45.95 % 
+WebStorm                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-ShoesApp                 16 hrs 9 mins       █████████░░░░░░░░░░░░░░░░   36.82 % 
-build-repo               8 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
-CalculateApp             7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
-sneakers                 5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-furniture                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+ShoesApp                 16 hrs 9 mins       ███████████░░░░░░░░░░░░░░   42.49 % 
+build-repo               8 hrs 10 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+sneakers                 7 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+furniture                1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+void-today               1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
 
 💻 Operating System: 
-Windows                  43 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  38 hrs 1 min        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +97,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 04/06/2026 20:34:17 UTC
+ Last Updated on 05/06/2026 20:27:53 UTC
 <!--END_SECTION:waka-->
 
 ---
