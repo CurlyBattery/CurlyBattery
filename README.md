@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C830%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C838%20hrs%2044%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -23,7 +23,7 @@
 
 > 📦 218.7 kB Used in GitHub's Storage 
  > 
-> 🏆 274 Contributions in the Year 2026
+> 🏆 279 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -34,21 +34,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                429 commits         ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-🌆 Daytime                790 commits         █████████████░░░░░░░░░░░░   53.92 % 
-🌃 Evening                206 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-🌙 Night                  40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
+🌞 Morning                453 commits         ███████░░░░░░░░░░░░░░░░░░   29.72 % 
+🌆 Daytime                814 commits         █████████████░░░░░░░░░░░░   53.41 % 
+🌃 Evening                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+🌙 Night                  41 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   168 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % 
-Tuesday                  277 commits         █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-Wednesday                189 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Thursday                 200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-Friday                   381 commits         ███████░░░░░░░░░░░░░░░░░░   26.01 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Sunday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+Monday                   176 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+Tuesday                  284 commits         █████░░░░░░░░░░░░░░░░░░░░   18.64 % 
+Wednesday                207 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Friday                   390 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Saturday                 199 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+Sunday                   58 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
 ```
 
 
@@ -58,26 +58,26 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    18 hrs 17 mins      ██████████████░░░░░░░░░░░   56.17 % 
-C#                       6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.79 % 
-XAML                     3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.56 % 
-TypeScript               3 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Markdown                 17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 % 
+Other                    17 hrs 47 mins      █████████████░░░░░░░░░░░░   53.83 % 
+TypeScript               6 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+C#                       4 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
+XAML                     2 hrs 29 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Prisma                   23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
 
 🔥 Editors: 
-Firefox                  20 hrs 17 mins      ████████████████░░░░░░░░░   62.32 % 
-Rider                    9 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   29.00 % 
-WebStorm                 2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Firefox                  19 hrs 55 mins      ███████████████░░░░░░░░░░   60.27 % 
+Rider                    6 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+WebStorm                 6 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
 
 🐱‍💻 Projects: 
-ShoesApp                 8 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.50 % 
-sneakers                 7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-nest-tdd                 6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-back-global-access       5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
-Scetchfab                2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+back-global-access       11 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.74 % 
+sneakers                 7 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.39 % 
+nest-tdd                 6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+Scetchfab                4 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+furniture                1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.89 % 
 
 💻 Operating System: 
-Windows                  32 hrs 33 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +97,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 09/06/2026 20:31:58 UTC
+ Last Updated on 10/06/2026 21:10:05 UTC
 <!--END_SECTION:waka-->
 
 ---
