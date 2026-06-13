@@ -15,9 +15,9 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C845%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C847%20hrs%2010%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -58,25 +58,25 @@ Sunday                   58 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    21 hrs 23 mins      ██████████████████░░░░░░░   71.61 % 
-TypeScript               6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
-YAML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Prisma                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+Other                    20 hrs 9 mins       ██████████████████░░░░░░░   72.86 % 
+TypeScript               5 hrs 32 mins       █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+YAML                     44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
+Prisma                   21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🔥 Editors: 
-Firefox                  23 hrs 6 mins       ███████████████████░░░░░░   77.31 % 
-WebStorm                 6 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.69 % 
+Firefox                  21 hrs 52 mins      ████████████████████░░░░░   79.02 % 
+WebStorm                 5 hrs 48 mins       █████░░░░░░░░░░░░░░░░░░░░   20.98 % 
 
 🐱‍💻 Projects: 
-back-global-access       11 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   37.47 % 
-void-today               6 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
-nest-tdd                 6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Scetchfab                5 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
-nestjs-tdd               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+back-global-access       11 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.45 % 
+void-today               7 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+nest-tdd                 4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Scetchfab                2 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+nestjs-tdd               46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 
 💻 Operating System: 
-Windows                  29 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 12/06/2026 20:37:30 UTC
+ Last Updated on 13/06/2026 20:04:28 UTC
 <!--END_SECTION:waka-->
 
 ---
