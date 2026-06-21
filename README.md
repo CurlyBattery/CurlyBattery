@@ -58,26 +58,26 @@ Sunday                   58 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    20 hrs 21 mins      ██████████████████░░░░░░░   71.82 % 
-TypeScript               6 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Prisma                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+Other                    19 hrs 13 mins      ██████████████████░░░░░░░   70.84 % 
+TypeScript               6 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Prisma                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+SCSS                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 
 🔥 Editors: 
-Firefox                  21 hrs 45 mins      ███████████████████░░░░░░   76.74 % 
-WebStorm                 6 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   22.74 % 
-Rider                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Firefox                  20 hrs 36 mins      ███████████████████░░░░░░   75.93 % 
+WebStorm                 6 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Rider                    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-back-global-access       17 hrs 50 mins      ████████████████░░░░░░░░░   62.96 % 
-void-today               9 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.21 % 
-furniture                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-InformPravoPlus2026      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+back-global-access       17 hrs 50 mins      ████████████████░░░░░░░░░   65.78 % 
+void-today               8 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
+furniture                55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+InformPravoPlus2026      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 parcel                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Windows                  28 hrs 20 mins      █████████████████████████   100.00 % 
+Windows                  27 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +97,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 20:06:44 UTC
+ Last Updated on 21/06/2026 20:14:10 UTC
 <!--END_SECTION:waka-->
 
 ---
