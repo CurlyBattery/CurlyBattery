@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C902%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C904%20hrs%2014%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,25 +58,25 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    16 hrs 36 mins      ████████████████░░░░░░░░░   63.43 % 
-TypeScript               8 hrs 57 mins       █████████░░░░░░░░░░░░░░░░   34.22 % 
-Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    16 hrs 27 mins      █████████████████░░░░░░░░   68.41 % 
+TypeScript               6 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   29.04 % 
+Text                     24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Firefox                  17 hrs 20 mins      █████████████████░░░░░░░░   66.19 % 
-WebStorm                 8 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   33.81 % 
+Firefox                  17 hrs 10 mins      ██████████████████░░░░░░░   71.38 % 
+WebStorm                 6 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.62 % 
 
 🐱‍💻 Projects: 
-back-global-access       25 hrs 53 mins      █████████████████████████   98.86 % 
-wanago-course            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
-build-repo               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-banana-tasks             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-void-today               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+back-global-access       23 hrs 45 mins      █████████████████████████   98.76 % 
+wanago-course            6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+build-repo               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+banana-tasks             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+void-today               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 💻 Operating System: 
-Windows                  26 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 30/06/2026 20:31:45 UTC
+ Last Updated on 01/07/2026 20:27:49 UTC
 <!--END_SECTION:waka-->
 
 ---
