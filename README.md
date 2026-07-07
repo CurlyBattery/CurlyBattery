@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C918%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C925%20hrs%2058%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,19 +58,21 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    14 hrs 13 mins      ███████████████████░░░░░░   76.05 % 
-TypeScript               4 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Prisma                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Other                    16 hrs 47 mins      ██████████████████░░░░░░░   70.88 % 
+TypeScript               6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
+Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 🔥 Editors: 
-Firefox                  14 hrs 16 mins      ███████████████████░░░░░░   76.33 % 
-WebStorm                 4 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
+Firefox                  17 hrs 19 mins      ██████████████████░░░░░░░   73.10 % 
+WebStorm                 6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
 
 🐱‍💻 Projects: 
-back-global-access       18 hrs 41 mins      █████████████████████████   100.00 % 
+back-global-access       23 hrs 31 mins      █████████████████████████   99.25 % 
+testing-registry         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+FckSignups               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  18 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -90,7 +92,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2026 20:27:10 UTC
+ Last Updated on 07/07/2026 20:27:36 UTC
 <!--END_SECTION:waka-->
 
 ---
