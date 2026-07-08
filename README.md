@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C925%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C929%20hrs%2052%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,21 +58,22 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    16 hrs 47 mins      ██████████████████░░░░░░░   70.88 % 
-TypeScript               6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   27.02 % 
-Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
+Other                    17 hrs 15 mins      █████████████████░░░░░░░░   67.36 % 
+TypeScript               7 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   30.13 % 
+Prisma                   37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Firefox                  17 hrs 19 mins      ██████████████████░░░░░░░   73.10 % 
-WebStorm                 6 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Firefox                  17 hrs 47 mins      █████████████████░░░░░░░░   69.42 % 
+WebStorm                 7 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.58 % 
 
 🐱‍💻 Projects: 
-back-global-access       23 hrs 31 mins      █████████████████████████   99.25 % 
-testing-registry         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+back-global-access       25 hrs 26 mins      █████████████████████████   99.30 % 
+testing-registry         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 FckSignups               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  23 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  25 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -92,7 +93,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2026 20:27:36 UTC
+ Last Updated on 08/07/2026 20:06:46 UTC
 <!--END_SECTION:waka-->
 
 ---
