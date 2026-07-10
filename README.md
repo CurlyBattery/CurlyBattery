@@ -58,22 +58,22 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    15 hrs 13 mins      █████████████████░░░░░░░░   66.96 % 
-TypeScript               6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
-Prisma                   29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    11 hrs 40 mins      █████████████████░░░░░░░░   68.38 % 
+TypeScript               4 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Prisma                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Firefox                  15 hrs 44 mins      █████████████████░░░░░░░░   69.28 % 
-WebStorm                 6 hrs 59 mins       ████████░░░░░░░░░░░░░░░░░   30.72 % 
+Firefox                  12 hrs 11 mins      ██████████████████░░░░░░░   71.47 % 
+WebStorm                 4 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.53 % 
 
 🐱‍💻 Projects: 
-back-global-access       22 hrs 33 mins      █████████████████████████   99.22 % 
-testing-registry         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-FckSignups               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+back-global-access       16 hrs 53 mins      █████████████████████████   98.96 % 
+testing-registry         10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+FckSignups               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  22 hrs 43 mins      █████████████████████████   100.00 % 
+Windows                  17 hrs 3 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -93,7 +93,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 09/07/2026 20:22:14 UTC
+ Last Updated on 10/07/2026 20:00:52 UTC
 <!--END_SECTION:waka-->
 
 ---
