@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C936%20hrs-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C937%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -58,25 +58,25 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    11 hrs 29 mins      ████████████████░░░░░░░░░   64.26 % 
-TypeScript               5 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.38 % 
-Prisma                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
-XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Other                    12 hrs 55 mins      █████████████████░░░░░░░░   66.92 % 
+TypeScript               5 hrs 47 mins       ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+Prisma                   16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+XML                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
+JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-Firefox                  12 hrs 2 mins       █████████████████░░░░░░░░   67.31 % 
-WebStorm                 5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.69 % 
+Firefox                  13 hrs 28 mins      █████████████████░░░░░░░░   69.75 % 
+WebStorm                 5 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   30.25 % 
 
 🐱‍💻 Projects: 
-back-global-access       16 hrs 46 mins      ███████████████████████░░   93.76 % 
-testing-registry         43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
-claude-theme             21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+back-global-access       18 hrs 12 mins      ████████████████████████░   94.23 % 
+testing-registry         43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+claude-theme             21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 FckSignups               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  17 hrs 53 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 12/07/2026 19:40:57 UTC
+ Last Updated on 13/07/2026 20:00:51 UTC
 <!--END_SECTION:waka-->
 
 ---
