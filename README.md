@@ -15,6 +15,8 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C001%20hrs%2017%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -29,6 +31,54 @@
  > 
 > 🔑 14 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                448 commits         ███████░░░░░░░░░░░░░░░░░░   29.97 % 
+🌆 Daytime                794 commits         █████████████░░░░░░░░░░░░   53.11 % 
+🌃 Evening                214 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.31 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Tuesday                  275 commits         █████░░░░░░░░░░░░░░░░░░░░   18.39 % 
+Wednesday                196 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
+Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+Friday                   389 commits         ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Sunday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+Other                    17 hrs 8 mins       █████████████░░░░░░░░░░░░   50.11 % 
+TypeScript               13 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.80 % 
+Prisma                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+.env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+
+🔥 Editors: 
+Firefox                  18 hrs 24 mins      █████████████░░░░░░░░░░░░   53.84 % 
+WebStorm                 15 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.16 % 
+
+🐱‍💻 Projects: 
+back-global-access       26 hrs 39 mins      ███████████████████░░░░░░   77.98 % 
+front-global-access      5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+testing-registry         2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Vodnyy143                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+
+💻 Operating System: 
+Windows                  34 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -46,7 +96,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 24/07/2026 19:57:35 UTC
+ Last Updated on 25/07/2026 19:46:03 UTC
 <!--END_SECTION:waka-->
 
 ---
