@@ -58,25 +58,25 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    17 hrs 8 mins       █████████████░░░░░░░░░░░░   50.11 % 
-TypeScript               13 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   40.80 % 
-Prisma                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Other                    16 hrs 29 mins      ████████████░░░░░░░░░░░░░   49.16 % 
+TypeScript               13 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   41.58 % 
+Prisma                   2 hrs 52 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 .env file                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 
 🔥 Editors: 
-Firefox                  18 hrs 24 mins      █████████████░░░░░░░░░░░░   53.84 % 
-WebStorm                 15 hrs 47 mins      ████████████░░░░░░░░░░░░░   46.16 % 
+Firefox                  17 hrs 46 mins      █████████████░░░░░░░░░░░░   52.96 % 
+WebStorm                 15 hrs 47 mins      ████████████░░░░░░░░░░░░░   47.04 % 
 
 🐱‍💻 Projects: 
-back-global-access       26 hrs 39 mins      ███████████████████░░░░░░   77.98 % 
-front-global-access      5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
-testing-registry         2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Vodnyy143                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+back-global-access       26 hrs 1 min        ███████████████████░░░░░░   77.56 % 
+front-global-access      5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+testing-registry         2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Vodnyy143                7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Windows                  34 hrs 11 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -96,7 +96,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2026 19:46:03 UTC
+ Last Updated on 26/07/2026 19:46:15 UTC
 <!--END_SECTION:waka-->
 
 ---
