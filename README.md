@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C198%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2017%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,25 +60,25 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    25 hrs 17 mins      ████████████████░░░░░░░░░   65.75 % 
-TypeScript               10 hrs 39 mins      ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-Prisma                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 % 
-JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Other                    27 hrs 19 mins      █████████████████░░░░░░░░   69.24 % 
+TypeScript               9 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+JavaScript               49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
+Prisma                   47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
 
 🔥 Editors: 
-Firefox                  25 hrs 45 mins      █████████████████░░░░░░░░   66.98 % 
-WebStorm                 12 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   33.02 % 
+Firefox                  27 hrs 57 mins      ██████████████████░░░░░░░   70.86 % 
+WebStorm                 11 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   29.14 % 
 
 🐱‍💻 Projects: 
-back-global-access       26 hrs 7 mins       █████████████████░░░░░░░░   67.94 % 
-front-global-access      4 hrs 48 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
-part1                    4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-wb_analytics             1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-example-submission-reposi32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+back-global-access       26 hrs 47 mins      █████████████████░░░░░░░░   67.89 % 
+part1                    4 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+front-global-access      4 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+wb_analytics             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+englab-frontend-main     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 
 💻 Operating System: 
-Windows                  38 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  39 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:05:12 UTC
+ Last Updated on 01/08/2026 19:45:49 UTC
 <!--END_SECTION:waka-->
 
 ---
