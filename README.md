@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C201%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C207%20hrs%2023%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,26 +60,26 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    28 hrs 15 mins      ██████████████████░░░░░░░   72.55 % 
-TypeScript               7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-JavaScript               1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-SQL                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-Prisma                   30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+Other                    27 hrs 30 mins      █████████████████░░░░░░░░   68.60 % 
+TypeScript               6 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+SQL                      1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+JavaScript               1 hr 24 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+YAML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
 
 🔥 Editors: 
-Firefox                  28 hrs 53 mins      ███████████████████░░░░░░   74.20 % 
-WebStorm                 9 hrs 16 mins       ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-DataGrip                 46 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+Firefox                  28 hrs 46 mins      ██████████████████░░░░░░░   71.75 % 
+WebStorm                 9 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+DataGrip                 1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
 
 🐱‍💻 Projects: 
-back-global-access       24 hrs 10 mins      ████████████████░░░░░░░░░   62.06 % 
-part1                    4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-front-global-access      2 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-EngLab                   1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-wb_analytics             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+back-global-access       22 hrs 37 mins      ██████████████░░░░░░░░░░░   56.41 % 
+EngLab                   4 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
+part1                    4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+englab-backend           2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+wb_analytics             1 hr 55 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 💻 Operating System: 
-Windows                  38 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  40 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:12:08 UTC
+ Last Updated on 05/08/2026 20:10:36 UTC
 <!--END_SECTION:waka-->
 
 ---
