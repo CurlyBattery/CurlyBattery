@@ -15,11 +15,15 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2021%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 160.7 kB Used in GitHub's Storage 
+> 📦 161.0 kB Used in GitHub's Storage 
  > 
 > 🏆 243 Contributions in the Year 2026
  > 
@@ -27,16 +31,71 @@
  > 
 > 📜 82 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                458 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
+🌆 Daytime                819 commits         █████████████░░░░░░░░░░░░   53.53 % 
+🌃 Evening                214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Tuesday                  290 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Wednesday                197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Friday                   408 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Sunday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Yekaterinburg
+
+💬 Programming Languages: 
+Other                    19 hrs 21 mins      ██████████████░░░░░░░░░░░   55.70 % 
+TypeScript               9 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
+SQL                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
+YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
+Prisma                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+
+🔥 Editors: 
+Firefox                  21 hrs 3 mins       ███████████████░░░░░░░░░░   60.62 % 
+WebStorm                 11 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   34.03 % 
+DataGrip                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+
+🐱‍💻 Projects: 
+back-global-access       14 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.59 % 
+englab-backend           12 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
+EngLab                   4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+fullstackopen            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+englab-frontend-main     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+
+💻 Operating System: 
+Windows                  34 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               64 repos            ████████████████░░░░░░░░░   64.00 % 
-JavaScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
-HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-C#                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               65 repos            ████████████████░░░░░░░░░   64.36 % 
+JavaScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+HTML                     3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
+C#                       2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
+CSS                      2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
 ```
 
 
@@ -46,7 +105,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:26:20 UTC
+ Last Updated on 07/08/2026 19:32:26 UTC
 <!--END_SECTION:waka-->
 
 ---
