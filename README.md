@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C214%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C219%20hrs%201%20min-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,26 +60,26 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    19 hrs 21 mins      ██████████████░░░░░░░░░░░   55.70 % 
-TypeScript               9 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.63 % 
-SQL                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
-YAML                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Prisma                   49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+Other                    15 hrs 42 mins      ████████████░░░░░░░░░░░░░   46.98 % 
+TypeScript               11 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   34.33 % 
+SQL                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.20 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+Prisma                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
 
 🔥 Editors: 
-Firefox                  21 hrs 3 mins       ███████████████░░░░░░░░░░   60.62 % 
-WebStorm                 11 hrs 49 mins      █████████░░░░░░░░░░░░░░░░   34.03 % 
-DataGrip                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Firefox                  17 hrs 53 mins      █████████████░░░░░░░░░░░░   53.54 % 
+WebStorm                 13 hrs 40 mins      ██████████░░░░░░░░░░░░░░░   40.90 % 
+DataGrip                 1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 
 🐱‍💻 Projects: 
-back-global-access       14 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.59 % 
-englab-backend           12 hrs 4 mins       █████████░░░░░░░░░░░░░░░░   34.74 % 
-EngLab                   4 hrs 41 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-fullstackopen            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-englab-frontend-main     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
+englab-backend           17 hrs 15 mins      █████████████░░░░░░░░░░░░   51.63 % 
+back-global-access       9 hrs 11 mins       ███████░░░░░░░░░░░░░░░░░░   27.49 % 
+EngLab                   4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+fullstackopen            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+redis-refresh            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 💻 Operating System: 
-Windows                  34 hrs 44 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:32:26 UTC
+ Last Updated on 08/08/2026 19:10:25 UTC
 <!--END_SECTION:waka-->
 
 ---
