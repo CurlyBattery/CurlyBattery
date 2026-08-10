@@ -36,20 +36,20 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                458 commits         ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-🌆 Daytime                819 commits         █████████████░░░░░░░░░░░░   53.53 % 
-🌃 Evening                214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+🌞 Morning                458 commits         ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌆 Daytime                820 commits         █████████████░░░░░░░░░░░░   53.56 % 
+🌃 Evening                214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
 🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   177 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Tuesday                  290 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Wednesday                197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Monday                   178 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+Tuesday                  290 commits         █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Wednesday                197 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
 Thursday                 208 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Friday                   408 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
+Friday                   408 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
 Sunday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 ```
 
@@ -60,26 +60,26 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    12 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   41.38 % 
-TypeScript               11 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   37.96 % 
-SQL                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
-YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Prisma                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+Other                    12 hrs 49 mins      ██████████░░░░░░░░░░░░░░░   41.99 % 
+TypeScript               11 hrs 28 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
+SQL                      1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
+YAML                     1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Prisma                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 🔥 Editors: 
-Firefox                  14 hrs 42 mins      ████████████░░░░░░░░░░░░░   48.62 % 
-WebStorm                 13 hrs 40 mins      ███████████░░░░░░░░░░░░░░   45.23 % 
-DataGrip                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Firefox                  15 hrs 1 min        ████████████░░░░░░░░░░░░░   49.16 % 
+WebStorm                 13 hrs 40 mins      ███████████░░░░░░░░░░░░░░   44.76 % 
+DataGrip                 1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
 
 🐱‍💻 Projects: 
-englab-backend           17 hrs 15 mins      ██████████████░░░░░░░░░░░   57.08 % 
-back-global-access       5 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-EngLab                   4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
-fullstackopen            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-redis-refresh            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+englab-backend           17 hrs 56 mins      ███████████████░░░░░░░░░░   58.72 % 
+back-global-access       5 hrs 37 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
+EngLab                   4 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+fullstackopen            1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+redis-refresh            13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 💻 Operating System: 
-Windows                  30 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  30 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,7 +105,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 19:13:20 UTC
+ Last Updated on 10/08/2026 19:34:09 UTC
 <!--END_SECTION:waka-->
 
 ---
