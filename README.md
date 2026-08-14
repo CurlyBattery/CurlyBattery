@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C227%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs%2010%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                474 commits         ████████░░░░░░░░░░░░░░░░░   30.08 % 
-🌆 Daytime                849 commits         █████████████░░░░░░░░░░░░   53.87 % 
-🌃 Evening                214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+🌞 Morning                474 commits         ███████░░░░░░░░░░░░░░░░░░   29.96 % 
+🌆 Daytime                855 commits         ██████████████░░░░░░░░░░░   54.05 % 
+🌃 Evening                214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
 🌙 Night                  39 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
-Tuesday                  306 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Wednesday                203 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-Thursday                 210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-Friday                   424 commits         ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Sunday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+Monday                   183 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Tuesday                  306 commits         █████░░░░░░░░░░░░░░░░░░░░   19.34 % 
+Wednesday                204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Thursday                 212 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Friday                   427 commits         ███████░░░░░░░░░░░░░░░░░░   26.99 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Sunday                   55 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
 ```
 
 
@@ -60,25 +60,25 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    16 hrs 19 mins      █████████████░░░░░░░░░░░░   50.02 % 
-TypeScript               14 hrs 12 mins      ███████████░░░░░░░░░░░░░░   43.53 % 
-Prisma                   1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-.env file                11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
+Other                    18 hrs 59 mins      ██████████████░░░░░░░░░░░   56.17 % 
+TypeScript               12 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
+Prisma                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+.env file                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-Firefox                  17 hrs 46 mins      ██████████████░░░░░░░░░░░   54.46 % 
-WebStorm                 14 hrs 51 mins      ███████████░░░░░░░░░░░░░░   45.54 % 
+Firefox                  20 hrs 21 mins      ███████████████░░░░░░░░░░   60.25 % 
+WebStorm                 13 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   39.75 % 
 
 🐱‍💻 Projects: 
-englab-backend           27 hrs 32 mins      █████████████████████░░░░   84.37 % 
-redis-refresh            2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.42 % 
-back-global-access       1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-englab-frontend          45 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
-BetterEqualizer          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+englab-backend           29 hrs 7 mins       ██████████████████████░░░   86.19 % 
+redis-refresh            2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+back-global-access       1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+englab-frontend          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+BetterEqualizer          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 
 💻 Operating System: 
-Windows                  32 hrs 38 mins      █████████████████████████   100.00 % 
+Windows                  33 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:36:38 UTC
+ Last Updated on 14/08/2026 19:30:59 UTC
 <!--END_SECTION:waka-->
 
 ---
