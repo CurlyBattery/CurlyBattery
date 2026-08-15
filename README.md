@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C229%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C230%20hrs%2036%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,25 +60,25 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    18 hrs 59 mins      ██████████████░░░░░░░░░░░   56.17 % 
-TypeScript               12 hrs 41 mins      █████████░░░░░░░░░░░░░░░░   37.56 % 
-Prisma                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-GitIgnore file           12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-.env file                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    20 hrs 44 mins      ████████████████░░░░░░░░░   64.15 % 
+TypeScript               9 hrs 40 mins       ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Prisma                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+.env file                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JavaScript               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
 
 🔥 Editors: 
-Firefox                  20 hrs 21 mins      ███████████████░░░░░░░░░░   60.25 % 
-WebStorm                 13 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   39.75 % 
+Firefox                  21 hrs 27 mins      █████████████████░░░░░░░░   66.40 % 
+WebStorm                 10 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   33.60 % 
 
 🐱‍💻 Projects: 
-englab-backend           29 hrs 7 mins       ██████████████████████░░░   86.19 % 
-redis-refresh            2 hrs 5 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-back-global-access       1 hr 34 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-englab-frontend          36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-BetterEqualizer          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+englab-backend           28 hrs 17 mins      ██████████████████████░░░   87.55 % 
+redis-refresh            1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+back-global-access       50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+englab-frontend          35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+BetterEqualizer          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
 
 💻 Operating System: 
-Windows                  33 hrs 48 mins      █████████████████████████   100.00 % 
+Windows                  32 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 14/08/2026 19:30:59 UTC
+ Last Updated on 15/08/2026 18:58:54 UTC
 <!--END_SECTION:waka-->
 
 ---
