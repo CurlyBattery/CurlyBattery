@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C235%20hrs%2034%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C239%20hrs%2027%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,25 +60,25 @@ Sunday                   55 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    26 hrs 48 mins      ████████████████████░░░░░   80.71 % 
-TypeScript               4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
-.env file                13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-YAML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    26 hrs 56 mins      ███████████████████░░░░░░   75.27 % 
+TypeScript               5 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
+JavaScript               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
+.env file                23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-Firefox                  27 hrs 39 mins      █████████████████████░░░░   83.29 % 
-WebStorm                 5 hrs 32 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Firefox                  28 hrs 56 mins      ████████████████████░░░░░   80.88 % 
+WebStorm                 6 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   19.12 % 
 
 🐱‍💻 Projects: 
-englab-backend           12 hrs 17 mins      █████████░░░░░░░░░░░░░░░░   37.03 % 
-englab-frontend          7 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-day4                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-day1                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-fullstackopen            2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+englab-backend           8 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   23.30 % 
+englab-frontend          7 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   20.60 % 
+my-tasks-bot             5 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+day4                     3 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+day1                     2 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 
 💻 Operating System: 
-Windows                  33 hrs 12 mins      █████████████████████████   100.00 % 
+Windows                  35 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:09:01 UTC
+ Last Updated on 22/08/2026 19:00:22 UTC
 <!--END_SECTION:waka-->
 
 ---
