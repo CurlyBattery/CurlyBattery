@@ -15,7 +15,7 @@
 ### :monorail: Streak Stats 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C248%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C249%20hrs%2053%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20hrs%2020%20mins-blue?style=flat)
 
@@ -60,25 +60,25 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    19 hrs 40 mins      ██████████████░░░░░░░░░░░   57.89 % 
-TypeScript               8 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-Prisma                   1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-YAML                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
-.env file                59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+Other                    16 hrs 16 mins      ███████████████░░░░░░░░░░   60.94 % 
+TypeScript               6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
+Prisma                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
+.env file                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-Firefox                  22 hrs 31 mins      █████████████████░░░░░░░░   66.30 % 
-WebStorm                 11 hrs 27 mins      ████████░░░░░░░░░░░░░░░░░   33.70 % 
+Firefox                  17 hrs 55 mins      █████████████████░░░░░░░░   67.10 % 
+WebStorm                 8 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.90 % 
 
 🐱‍💻 Projects: 
-my-tasks-bot             13 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   39.79 % 
-my-habits-bot            12 hrs 2 mins       █████████░░░░░░░░░░░░░░░░   35.45 % 
-englab-backend           5 hrs 26 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.01 % 
-task-vodnyy-bot          1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-zapret-discord-youtube   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+my-habits-bot            12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
+my-tasks-bot             8 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.57 % 
+englab-backend           5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+zapret-discord-youtube   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+claude-skills            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
 
 💻 Operating System: 
-Windows                  33 hrs 59 mins      █████████████████████████   100.00 % 
+Windows                  26 hrs 42 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 02:19:16 UTC
+ Last Updated on 29/08/2026 01:52:38 UTC
 <!--END_SECTION:waka-->
 
 ---
