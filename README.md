@@ -60,25 +60,25 @@ Sunday                   62 commits          █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Yekaterinburg
 
 💬 Programming Languages: 
-Other                    16 hrs 16 mins      ███████████████░░░░░░░░░░   60.94 % 
-TypeScript               6 hrs 19 mins       ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-Prisma                   1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.35 % 
-.env file                44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-YAML                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Other                    16 hrs 12 mins      █████████████████░░░░░░░░   67.27 % 
+TypeScript               5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+Prisma                   1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
+YAML                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Bash                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-Firefox                  17 hrs 55 mins      █████████████████░░░░░░░░   67.10 % 
-WebStorm                 8 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   32.90 % 
+Firefox                  17 hrs 13 mins      ██████████████████░░░░░░░   71.45 % 
+WebStorm                 6 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   28.55 % 
 
 🐱‍💻 Projects: 
-my-habits-bot            12 hrs 2 mins       ███████████░░░░░░░░░░░░░░   45.10 % 
-my-tasks-bot             8 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   30.57 % 
-englab-backend           5 hrs 2 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
-zapret-discord-youtube   59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-claude-skills            12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+my-habits-bot            10 hrs 15 mins      ███████████░░░░░░░░░░░░░░   42.56 % 
+englab-backend           9 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.55 % 
+my-tasks-bot             4 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+node-cron                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+prisma                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Windows                  26 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,7 +104,7 @@ CSS                      2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Vodnyy143/Vodnyy143/master/assets/bar_graph.png)
 
 
- Last Updated on 30/08/2026 21:26:13 UTC
+ Last Updated on 31/08/2026 23:01:40 UTC
 <!--END_SECTION:waka-->
 
 ---
